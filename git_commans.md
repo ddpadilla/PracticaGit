@@ -10,11 +10,11 @@ git checkout: cambia a otra branch y se comprueba en el directorio de trabajo
 
 git log: se corroboran todos los commits hechos indicando el usuario, correo, fecha y hora y la branch activa
 
-git branch:para listar todas las ramas (branch), tambien se puede usar para crear una nueva branch usando el comando seguido del nombre que le daremos
+git branch: para listar todas las ramas (branch), tambien se puede usar para crear una nueva branch usando el comando seguido del nombre que le daremos
 
 git add: se usa para enviar los archivos a la zona de preparacion (stage)
 
-git commit:confirmar y guardar los cambios de los archivos que estan en la zona de preparacion (stage)
+git commit: confirmar y guardar los cambios de los archivos que estan en la zona de preparacion (stage)
 
 git push: se configura la rama de salida y se envia al repositorio remoto
 
